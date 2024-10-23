@@ -1,4 +1,4 @@
-**Vector Calculator**
+**Vector Calculator*
 
 **Description**:
 
