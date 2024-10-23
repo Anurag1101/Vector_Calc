@@ -44,7 +44,7 @@ v2 = input_vector()
 print("\nInput third vector:")
 v3 = input_vector()
 
-# Perform operations
+# Perform Operations
 print("\nAddition:", v1 + v2)
 print("Dot Product:", v1 * v2)
 print("Cross Product:", v1 ^ v2)
