@@ -34,7 +34,7 @@ def input_vector():
     return Vector(x, y, z)
 
 
-# Input Vectors from the user
+# Input vectors from the user
 print("Input first vector:")
 v1 = input_vector()
 
