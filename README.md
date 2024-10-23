@@ -8,7 +8,7 @@ This is a simple vector calculator implemented in Python. It allows users to per
 
 **Vector Addition**:  Add two vectors and get the resultant vector.
 
-D**ot Product:**  Calculate the dot product of two vectors.
+**Dot Product:**  Calculate the dot product of two vectors.
 
 **Cross Product:**  Compute the cross product of two vectors.
 
