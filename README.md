@@ -54,29 +54,29 @@ Displays the results of the vector operations **(addition, dot product, and cros
 
 ### **Example Output**
 
-**Input first vector:**
+    Input first vector:
 
-**Enter x component:**  1
+    Enter x component:  1
 
-**Enter y component:**  2
+    **Enter y component:**  2
 
-**Enter z component:**  3
+    **Enter z component:**  3
 
-**Input second vector:**
+    **Input second vector:**
 
-**Enter x component**: 4
+    **Enter x component**: 4
 
-**Enter y component**: 5
+    **Enter y component**: 5
 
-**Enter z component:**  6
+    **Enter z component:**  6
 
-**Input third vector:**
+    **Input third vector:**
 
-**Enter x component:**  7
+    **Enter x component:**  7
 
-**Enter y component**:  8
+    **Enter y component**:  8
 
-**Enter z component:**  9
+    **Enter z component:**  9
 
 **Addition:**  Vector(5i + 7j + 9k)
 
