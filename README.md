@@ -36,17 +36,20 @@ Accepts input for three vectors from the user.
 
 Displays the results of the vector operations **(addition, dot product, and cross product)**.
 
-**How to Use**:
+## **How to Use**:
 
-**Clone the repository to your local machine:**  git clone https://github.com/yourusername/Vector_Calc.git
+**Clone the repository to your local machine:** 
+    git clone https://github.com/yourusername/Vector_Calc.git
 
-**Navigate to the project directory:**  cd Vector_Calc
+**Navigate to the project directory:**
+    cd Vector_Calc
 
-**Run the program:**  python vector_calculator.py
+**Run the program:** 
+    python vector_calculator.py
 
-Follow the prompts to input the vector components and view the results of the operations.
+## Follow the prompts to input the vector components and view the results of the operations.
 
-**Example Output**
+### **Example Output**
 
 **Input first vector:**
 
