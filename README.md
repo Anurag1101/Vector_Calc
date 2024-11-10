@@ -6,11 +6,11 @@ This is a simple `vector` calculator implemented in Python. It allows users to p
 
 ## **Features**:
 
-**Vector Addition**:  Add two vectors and get the resultant vector.
+- **Vector Addition**:  Add two vectors and get the resultant vector.
 
-**Dot Product:**  Calculate the dot product of two vectors.
+- **Dot Product:**  Calculate the dot product of two vectors.
 
-**Cross Product:**  Compute the cross product of two vectors.
+- **Cross Product:**  Compute the cross product of two vectors.
 
 **Code Overview**:
 
