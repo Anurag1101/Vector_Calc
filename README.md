@@ -12,7 +12,7 @@ This is a simple `vector` calculator implemented in Python. It allows users to p
 
 - **Cross Product:**  Compute the cross product of two vectors.
 
-**Code Overview**:
+## **Code Overview**:
 
 The main components of the code include:
 
