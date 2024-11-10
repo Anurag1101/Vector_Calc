@@ -2,7 +2,7 @@
 
 ## **Description**:
 
-This is a simple vector calculator implemented in Python. It allows users to perform basic vector operations, including vector addition, dot product, and cross product. The program prompts users to input the components of vectors and outputs the results of the operations.
+This is a simple `vector` calculator implemented in Python. It allows users to perform basic vector operations, including vector `addition`, `dot-product`, and `cross-product`. The program prompts users to input the components of vectors and outputs the results of the operations.
 
 **Features**:
 
