@@ -16,7 +16,7 @@ This is a simple `vector` calculator implemented in Python. It allows users to p
 
 The main components of the code include:
 
-**Vector Class:**
+### **Vector Class:**
 
     Initializes a vector with x, y, and z components.
 
