@@ -80,17 +80,17 @@ Displays the results of the vector operations **(addition, dot product, and cros
 
 ## Output: 
 
-    **Addition:**  Vector(5i + 7j + 9k)
+    Addition:  Vector(5i + 7j + 9k)
 
-    **Dot Product:**  32
+    Dot Product:  32
 
-    **Cross Product:**  Vector(-3i + 6j + -3k)
+    Cross Product:  Vector(-3i + 6j + -3k)
 
-    **Addition:**  Vector(8i + 10j + 12k)
+    Addition:  Vector(8i + 10j + 12k)
 
-    **Dot Product:**  50
+    Dot Product:  50
 
-    **Cross Product:**  Vector(-6i + 12j + -6k)
+    Cross Product:  Vector(-6i + 12j + -6k)
 
 ## **License**:
 
