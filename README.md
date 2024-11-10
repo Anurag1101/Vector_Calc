@@ -30,11 +30,11 @@ The main components of the code include:
 
 - Returns a Vector object based on user input.
 
-**Main Program Logic:**
+### **Main Program Logic:**
 
 Accepts input for three vectors from the user.
 
-Displays the results of the vector operations (addition, dot product, and cross product).
+Displays the results of the vector operations **(addition, dot product, and cross product)**.
 
 **How to Use**:
 
