@@ -18,17 +18,17 @@ The main components of the code include:
 
 ### **Vector Class:**
 
-    Initializes a vector with x, y, and z components.
+- Initializes a vector with x, y, and z components.
 
-    Implements vector addition, dot product, and cross product operations.
+- Implements vector addition, dot product, and cross product operations.
 
-    Provides a string representation of the vector in i,j,k form.
+- Provides a string representation of the vector in i,j,k form.
 
-**Input Function:**
+### **Input Function:**
 
-Prompts users to enter the components of a vector.
+- Prompts users to enter the components of a vector.
 
-Returns a Vector object based on user input.
+- Returns a Vector object based on user input.
 
 **Main Program Logic:**
 
