@@ -52,7 +52,7 @@ Displays the results of the vector operations **(addition, dot product, and cros
 
 ## Follow the prompts to input the vector components and view the results of the operations.
 
-### **Example Output**
+### **Example Input**
 
     Input first vector:
 
@@ -78,18 +78,20 @@ Displays the results of the vector operations **(addition, dot product, and cros
 
     **Enter z component:**  9
 
-**Addition:**  Vector(5i + 7j + 9k)
+## Output: 
 
-**Dot Product:**  32
+    **Addition:**  Vector(5i + 7j + 9k)
 
-**Cross Product:**  Vector(-3i + 6j + -3k)
+    **Dot Product:**  32
 
-**Addition:**  Vector(8i + 10j + 12k)
+    **Cross Product:**  Vector(-3i + 6j + -3k)
 
-**Dot Product:**  50
+    **Addition:**  Vector(8i + 10j + 12k)
 
-**Cross Product:**  Vector(-6i + 12j + -6k)
+    **Dot Product:**  50
 
-**License**:
+    **Cross Product:**  Vector(-6i + 12j + -6k)
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## **License**:
+
+This project is licensed under the `MIT` License - see the LICENSE file for details.
